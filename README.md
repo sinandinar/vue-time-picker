@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+Allows to select a time range via mouse click and drag.
+
+![chrome_2018-06-11_22-24-47](https://user-images.githubusercontent.com/20885130/41252752-c281da9a-6dc6-11e8-9838-71cf8ac05f1c.jpg)
+
 ## Build Setup
 
 ``` bash
